@@ -1,6 +1,8 @@
 # Sesi9_PCd
 
 Analisis Hasil
+
+
 Operator Roberts:
 Operator Roberts menggunakan dua kernel 2x2 untuk mendeteksi tepi. Metode Roberts ebih sensitif terhadap perubahan intensitas yang tajam dan memberikan hasil yang lebih halus dibandingkan dengan Sobel.
 Hasil dari operator Roberts cenderung menghasilkan lebih banyak noise, terutama pada gambar dengan banyak detail halus.
